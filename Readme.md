@@ -1,8 +1,5 @@
 # Real Time Data Processing System for Weather Monitoring with Rollups and Aggregates
 
-__Project Doned By__
-## **Roop Teja**
-
 # Table of Contents
 - [Project Overview](#project-overview)
 - [Overview of UI](#overview-of-ui)
@@ -94,3 +91,6 @@ in your web browser to access the weather monitoring dashboard. You will be able
 # Conclusion
 
 This setup delivers a fully containerized real-time weather monitoring system that integrates a Flask API backend, SQLite database, and a React.js frontend. This architecture ensures ease of deployment, scalability, and efficient management of the system, while the React.js frontend offers a dynamic, user-friendly interface for monitoring weather data in real time. This combination creates a seamless and effective solution for capturing, processing, and displaying weather information.
+
+__Project Doned By__
+## **Roop Teja**
